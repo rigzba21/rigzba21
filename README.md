@@ -26,7 +26,6 @@
 * Filesystems & Storage
     * [Ceph](https://github.com/ceph/ceph)
     * [OpenZFS](https://github.com/openzfs/zfs)
-
 * There's probably more, this is just the most recent...
 
 <!--
