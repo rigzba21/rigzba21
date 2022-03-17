@@ -5,6 +5,7 @@
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
 * [kubectl-conda](https://github.com/rigzba21/kubectl-conda)
 * [kubectl-dask-gateway](https://github.com/rigzba21/kubectl-dask-gateway)
+* Kubernetes, specifically [SIG-Storage](https://github.com/kubernetes/community/tree/master/sig-storage) related projects
 
 #### ✨ Things I'm tinkering with [on GitLab](https://gitlab.com/jvelando)
 * [gpsd](https://gitlab.com/gpsd/gpsd)
@@ -22,6 +23,10 @@
     * [youki](https://github.com/containers/youki)
     * [netavark](https://github.com/containers/netavark)
     * [aardvark-dns](https://github.com/containers/aardvark-dns)
+* Filesystems & Storage
+    * [Ceph](https://github.com/ceph/ceph)
+    * [OpenZFS](https://github.com/openzfs/zfs)
+
 * There's probably more, this is just the most recent...
 
 <!--
