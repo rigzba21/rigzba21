@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🔭 Things I’m currently working on or enjoy contributing to
+#### 🔭 Things I’m currently working on, tinkering with, or enjoy contributing to
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
 * [kubectl-conda](https://github.com/rigzba21/kubectl-conda)
