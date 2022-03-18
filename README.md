@@ -6,6 +6,7 @@
 * [kubectl-conda](https://github.com/rigzba21/kubectl-conda)
 * [kubectl-dask-gateway](https://github.com/rigzba21/kubectl-dask-gateway)
 * Kubernetes, specifically [SIG-Storage](https://github.com/kubernetes/community/tree/master/sig-storage) related projects
+* [squelch-break](https://github.com/rigzba21/squelch-break)
 
 #### ✨ Things I'm tinkering with [on GitLab](https://gitlab.com/jvelando)
 * [gpsd](https://gitlab.com/gpsd/gpsd)
