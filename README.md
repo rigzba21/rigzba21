@@ -13,6 +13,7 @@
 * [kali-arm](https://gitlab.com/kalilinux/build-scripts/kali-arm) 
 * [libvirt](https://gitlab.com/libvirt/libvirt)
 * [libvirt-rust](https://gitlab.com/libvirt/libvirt-rust)
+* [wireshark](https://gitlab.com/wireshark/wireshark)
 
 #### 🤔 Other random projects I'm tinkering with 
 * [AOSP](https://source.android.com/)
