@@ -3,7 +3,7 @@
 #### 🔭 Things I’m currently working on, tinkering with, or enjoy contributing to
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
-* [kubectl-conda](https://github.com/rigzba21/kubectl-conda)
+* [ZeroMQ](https://zeromq.org/)
 * [kubectl-dask-gateway](https://github.com/rigzba21/kubectl-dask-gateway)
 * Kubernetes, specifically [SIG-Storage](https://github.com/kubernetes/community/tree/master/sig-storage) related projects
 * [squelch-break](https://github.com/rigzba21/squelch-break)
