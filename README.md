@@ -8,6 +8,7 @@
 * Kubernetes, specifically [SIG-Storage](https://github.com/kubernetes/community/tree/master/sig-storage) related projects
 * [squelch-break](https://github.com/rigzba21/squelch-break)
 * [sigstore projects](https://github.com/sigstore/)
+* [crossplane/crossplane](https://github.com/crossplane/crossplane)
 
 #### ✨ Things I'm tinkering with [on GitLab](https://gitlab.com/jvelando)
 * [gpsd](https://gitlab.com/gpsd/gpsd)
