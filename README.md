@@ -7,7 +7,7 @@
 * [kubectl-dask-gateway](https://github.com/rigzba21/kubectl-dask-gateway)
 * Kubernetes, specifically [SIG-Storage](https://github.com/kubernetes/community/tree/master/sig-storage) related projects
 * [squelch-break](https://github.com/rigzba21/squelch-break)
-* [sigstore projects](https://github.com/sigstore/)
+* [sigstore](https://github.com/sigstore/) and [slsa](https://github.com/slsa-framework/slsa)
 * [crossplane](https://github.com/crossplane/crossplane)
 * [rook](https://github.com/rook/rook)
 
