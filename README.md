@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### 🔭 Things I’m currently working on, tinkering with, or enjoy contributing to
+* [Generating SLSA/in-toto attestion for vendored conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
 * [ZeroMQ](https://zeromq.org/)
