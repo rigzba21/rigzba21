@@ -4,10 +4,9 @@
 * [Generating SLSA/in-toto attestion for vendored conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
-* [ZeroMQ](https://zeromq.org/)
-* [kubectl-dask-gateway](https://github.com/rigzba21/kubectl-dask-gateway)
+* [Building a K8S CLI for managing dask-gateway clusters: kubectl-dask-gateway](https://github.com/rigzba21/kubectl-dask-gateway)
 * Kubernetes, specifically [SIG-Storage](https://github.com/kubernetes/community/tree/master/sig-storage) related projects
-* [squelch-break](https://github.com/rigzba21/squelch-break)
+* [CoAP + CBOR Spec messaging: squelch-break](https://github.com/rigzba21/squelch-break)
 * [sigstore](https://github.com/sigstore/) and [slsa](https://github.com/slsa-framework/slsa)
 * [crossplane](https://github.com/crossplane/crossplane)
 * [rook](https://github.com/rook/rook)
