@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### 💬 Open-Source communities I enjoy participating in, or contributing to
+* [conda-forge](https://github.com/conda-forge)
+* [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
+    * [Best Practices for OSS Developers Working Group](https://github.com/ossf/wg-best-practices-os-developers)
 
 #### 🔭 Things I’m currently working on, tinkering with, or enjoy contributing to
 * [Generating SLSA/in-toto attestion for vendored conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
@@ -12,6 +16,7 @@
 * [sigstore](https://github.com/sigstore/) and [slsa](https://github.com/slsa-framework/slsa)
 * [crossplane](https://github.com/crossplane/crossplane)
 * [rook](https://github.com/rook/rook)
+
 
 #### ✨ Things I'm tinkering with [on GitLab](https://gitlab.com/jvelando)
 * [gpsd](https://gitlab.com/gpsd/gpsd)
