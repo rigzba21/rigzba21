@@ -4,6 +4,7 @@
 * [conda-forge](https://github.com/conda-forge)
 * [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
     * [Best Practices for OSS Developers Working Group](https://github.com/ossf/wg-best-practices-os-developers)
+    * [Supply Chain Integrity Working Group](https://github.com/ossf/wg-supply-chain-integrity)
 
 #### 🔭 Things I’m currently working on, tinkering with, or enjoy contributing to
 * [Generating SLSA/in-toto attestion for vendored conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
@@ -30,6 +31,8 @@
 * [Linux Kernel Net Wireless Daemon (iwd)](https://iwd.wiki.kernel.org/)
 * [GNURadio Ecosystem](https://www.gnuradio.org/)
     * [RTL-SDR](https://www.rtl-sdr.com/)
+    * [HackRF](https://github.com/greatscottgadgets/hackrf)
+    * [bladeRF](https://github.com/Nuand/bladeRF)
 * [Containers Tools/Stack](https://github.com/containers)
     * [podman](https://github.com/containers/podman)
     * [youki](https://github.com/containers/youki)
