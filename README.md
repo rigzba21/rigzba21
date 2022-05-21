@@ -5,7 +5,7 @@
 * [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
     * [Best Practices for OSS Developers Working Group](https://github.com/ossf/wg-best-practices-os-developers)
     * [Supply Chain Integrity Working Group](https://github.com/ossf/wg-supply-chain-integrity)
-* [The Secure Software Factory (SSF)](https://github.com/buildsec/ssf)
+* [Frsca - Factory for Reproducable Secure Artifacts](https://github.com/buildsec/ssf)
 
 #### 🔭 Things I’m currently working on, tinkering with, or enjoy contributing to
 * [Generating SLSA/in-toto attestion for vendored conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
