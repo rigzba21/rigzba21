@@ -1,19 +1,24 @@
 ### Hi there 👋
 
-#### 💬 Open-Source communities I enjoy participating in, or contributing to
-* [conda-forge](https://github.com/conda-forge)
-* [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
-* [Frsca - Factory for Reproducable Secure Artifacts](https://github.com/buildsec/ssf)
-
-#### 🔭 Things I’m currently tinkering with(most recent)
+#### ⚡ things I'm currently tinkering with
 * Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org)
 * Network Programming
   * [WireGuard](https://www.wireguard.com/repositories/) related projects
   * [netfilter](https://www.netfilter.org)
   * [FRRouting Project](https://frrouting.org)
+  * [Open vSwitch](https://www.openvswitch.org)
+* [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
+ 
+#### 💬 Open Source Communities
+* [conda-forge](https://github.com/conda-forge)
+* [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
+* [Frsca - factory for reproducible secure artifacts](https://github.com/buildsec/ssf)
 * [syft: adding conda support](https://github.com/anchore/syft/issues/932)
+
+#### 🔭 Other projects I've contributed to
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
+* [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib)
 <!--
 **jvelando/jvelando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
 
