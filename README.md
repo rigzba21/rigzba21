@@ -3,10 +3,9 @@
 #### ⚡ things I'm currently tinkering with
 * Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org)
 * Network Programming
-  * [WireGuard](https://www.wireguard.com/repositories/) related projects
-  * [netfilter](https://www.netfilter.org)
+  * [WireGuard](https://www.wireguard.com/repositories/) related projects:
+    * [`wireguard-dynamic`](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md)
   * [FRRouting Project](https://frrouting.org)
-  * [Open vSwitch](https://www.openvswitch.org)
 * [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
  
 #### 💬 Open Source Communities
