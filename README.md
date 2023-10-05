@@ -6,7 +6,8 @@
   * [WireGuard](https://www.wireguard.com/repositories/) related projects:
     * [`wireguard-dynamic`](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md)
   * [FRRouting Project](https://frrouting.org)
-* [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
+* 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
+  * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882)
  
 #### 💬 Open Source Communities
 * [conda-forge](https://github.com/conda-forge)
