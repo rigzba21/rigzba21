@@ -9,7 +9,6 @@
   * [FRRouting Project](https://frrouting.org)
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882)
-* Filesystems/Storage with [Ceph](https://docs.ceph.com/en/latest/) and [Rook](https://rook.io/) on bare-metal Kubernetes
  
 #### 💬 Open Source Communities
 * [conda-forge](https://github.com/conda-forge)
