@@ -9,6 +9,7 @@
   * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882)
+* [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver
  
 #### 💬 Open Source Communities
 * [conda-forge](https://github.com/conda-forge)
