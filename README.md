@@ -10,6 +10,7 @@
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882)
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver
+* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)
  
 #### 💬 Open Source Communities
 * [conda-forge](https://github.com/conda-forge)
