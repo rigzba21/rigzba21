@@ -13,7 +13,7 @@
 * 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)
  
 #### 💬 Open Source Communities
-* [conda-forge](https://github.com/conda-forge)
+* [conda-forge](https://github.com/conda-forge) feedstock maintainer
 * [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
 * [Frsca - factory for reproducible secure artifacts](https://github.com/buildsec/ssf)
 * [syft: adding conda support](https://github.com/anchore/syft/issues/932)
