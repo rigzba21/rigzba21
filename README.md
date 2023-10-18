@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 #### ⚡ things I'm currently tinkering with
-* Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org)
-* Network Programming
-  * [WireGuard](https://www.wireguard.com/repositories/) related projects:
-    * [`wireguard-dynamic`](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md)
-    * [`roadguard` - a Rust CLI I wrote to help setup and manage `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
-  * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
+<!-- * Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org) -->
+* [`wireguard-dynamic`](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md)
+* [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
+* [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882)
-* Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver
-* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)
+<!--* ⚡ Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver
+* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust) -->
  
 #### 💬 Open Source Communities
 * [conda-forge](https://github.com/conda-forge) feedstock maintainer
