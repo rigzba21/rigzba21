@@ -2,7 +2,7 @@
 
 #### ⚡ things I'm currently tinkering with
 <!-- * Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org) -->
-* [`wg-dynamic`](https://git.zx2c4.com/wg-dynamic/about/docs/idea.md)
+* [experimental updates for `wg-dynamic`](https://github.com/rigzba21/wg-dynamic)
 * [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
 * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
