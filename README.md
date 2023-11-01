@@ -14,12 +14,13 @@
 * [conda-forge](https://github.com/conda-forge) feedstock maintainer
 * [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
 * [Frsca - factory for reproducible secure artifacts](https://github.com/buildsec/ssf)
-* [syft: adding conda support](https://github.com/anchore/syft/issues/932)
+
 
 #### 🔭 Other projects I've contributed to
 * [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
 * [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib)
+* [syft: adding conda support](https://github.com/anchore/syft/issues/932)
 <!--
 **jvelando/jvelando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
 
