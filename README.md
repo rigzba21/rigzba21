@@ -7,7 +7,8 @@
 * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622)
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882)
-* Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver
+* Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
+  * eventually release my Ansible role for setting ⬆️ up
 <!--* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)-->
  
 #### 💬 Open Source Communities
