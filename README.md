@@ -23,6 +23,7 @@
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
 * [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib)
 * Ops + Infra support for [_“Larger Than Memory Data Workflows with Apache Arrow and Ibis”_ workshop for J On The Beach conference](https://voltrondata-labs.github.io/2023-jonthebeach-ibis/)
+* [`conda-vendor` a python CLI for _vendored_ conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
 <!--
 **jvelando/jvelando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
 
