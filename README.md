@@ -6,11 +6,12 @@
 * [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
 * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
 * [syft: adding conda support](https://github.com/anchore/syft/issues/932)
-<!--* 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622) -->
-  <!--* 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882) -->
+* 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622) 
+  * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882) 
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
   * eventually release my Ansible role for setting this up
-<!--* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)-->
+* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)
+* SLSA for [Nebari](https://github.com/nebari-dev/nebari)
  
 #### 💬 Open Source Communities
 * [conda-forge](https://github.com/conda-forge) feedstock maintainer
