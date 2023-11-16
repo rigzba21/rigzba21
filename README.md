@@ -10,7 +10,8 @@
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882) 
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
   * eventually release my Ansible role for setting this up
-* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust)
+* 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust) tinkering
+  * 🦀 tinkering with my own hobby embedded framework for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs) 
 * SLSA for [Nebari](https://github.com/nebari-dev/nebari)
  
 #### 💬 Open Source Communities
