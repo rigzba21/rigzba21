@@ -5,13 +5,12 @@
 * [experimental updates for `wg-dynamic`](https://github.com/rigzba21/wg-dynamic)
 * [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
 * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
-* [syft: adding conda support](https://github.com/anchore/syft/issues/932)
 * 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622) 
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882) 
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
   * eventually release my Ansible role for setting this up
 * 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust) tinkering
-  * 🦀 tinkering with my own hobby embedded framework for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs) 
+  * 🦀 tinkering with building my own hobby embedded framework for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs) 
 * SLSA for [Nebari](https://github.com/nebari-dev/nebari)
  
 #### 💬 Open Source Communities
@@ -26,6 +25,7 @@
 * [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib)
 * Ops + Infra support for [_“Larger Than Memory Data Workflows with Apache Arrow and Ibis”_ workshop for J On The Beach conference](https://voltrondata-labs.github.io/2023-jonthebeach-ibis/)
 * [`conda-vendor` a python CLI for _vendored_ conda channels](https://github.com/MetroStar/conda-vendor/issues/34)
+* [syft: adding conda support](https://github.com/anchore/syft/issues/932)
 <!--
 **jvelando/jvelando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your profile.
 
