@@ -20,7 +20,7 @@
 
 
 #### 🔭 Other projects I've contributed to
-* [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks)
+* [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks/pull/1421)
 * [dask/dask-gateway](https://github.com/dask/dask-gateway)
 * [oauthlib/oauthlib PKCE implementation](https://github.com/oauthlib/oauthlib/pull/786)
 * Ops + Infra support for [_“Larger Than Memory Data Workflows with Apache Arrow and Ibis”_ workshop for J On The Beach conference](https://voltrondata-labs.github.io/2023-jonthebeach-ibis/)
