@@ -10,8 +10,7 @@
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
   * [ ] TODO: open source release my Ansible role for setting this up
 * 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust) tinkering
-  * 🦀 ⛺ Campcraft: building my own embedded framework from scratch in Rust, for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs)
-    * [ ] TODO: open source release
+  * 🦀 ⛺ [Campcraft: building my own embedded framework from scratch in Rust](https://gitlab.com/rigzba21/campcraft), for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs)
 * SLSA for [Nebari](https://github.com/nebari-dev/nebari)
  
 #### 💬 Open Source Communities
