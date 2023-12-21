@@ -5,12 +5,13 @@
 * [experimental updates for `wg-dynamic`](https://github.com/rigzba21/wg-dynamic)
 * [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
 * [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
-* 🦀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622) 
+* 🦀 Looking into 👀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622) 
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882) 
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
-  * eventually release my Ansible role for setting this up
+  * [ ] TODO: open source release my Ansible role for setting this up
 * 🦀 [Embedded Rust ecosystem](https://github.com/rust-embedded/awesome-embedded-rust) tinkering
-  * 🦀 ⛺ Campcraft: building my own embedded framework from scratch in Rust, for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs) 
+  * 🦀 ⛺ Campcraft: building my own embedded framework from scratch in Rust, for the [micro:bit](https://microbit.org/) board and [Cortex-M nRF52833](https://www.nordicsemi.com/Products/nRF52833/Downloads?lang=en#infotabs)
+    * [ ] TODO: open source release
 * SLSA for [Nebari](https://github.com/nebari-dev/nebari)
  
 #### 💬 Open Source Communities
