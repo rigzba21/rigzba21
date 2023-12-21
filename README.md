@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🪛 things I'm currently tinkering with
+#### 🪛 things I'm currently tinkering with - https://blog.rigzba21.com/
 <!-- * Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org) -->
 * [experimental updates for `wg-dynamic`](https://github.com/rigzba21/wg-dynamic)
 * [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
