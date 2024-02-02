@@ -4,7 +4,7 @@
 <!-- * Bare-Metal provisioning with [Tinkerbell](https://tinkerbell.org) -->
 * [experimental updates for `wg-dynamic`](https://github.com/rigzba21/wg-dynamic)
 * [`roadguard` - a Rust CLI for managing `wg0` interfaces](https://gitlab.com/rigzba21/roadguard)
-* [FRRouting Project](https://frrouting.org) & [babeld (Babel routing daemon)](https://github.com/jech/babeld)
+* [FRRouting Project](https://frrouting.org), [babeld (Babel routing daemon)](https://github.com/jech/babeld), and [B.A.T.M.A.N routing protocol](https://www.open-mesh.org/projects/open-mesh/wiki/BATMANConcept)
 * 🦀 Looking into 👀 [Rust support for Pulumi](https://github.com/pulumi/pulumi/issues/3622) 
   * 🦀[Support community language plugins (Rust)](https://github.com/pulumi/pulumi/issues/11882) 
 * Hosting a [Matrix Dendrite](https://github.com/matrix-org/dendrite) homeserver on my homelab
