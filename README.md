@@ -17,6 +17,7 @@
 * [conda-forge](https://github.com/conda-forge) feedstock maintainer
 * [Open Source Security Foundation (OpenSSF)](https://github.com/ossf)
 * [Frsca - factory for reproducible secure artifacts](https://github.com/buildsec/ssf)
+* [adding `micromamba` to wolfi-os](https://github.com/wolfi-dev/os/issues/12955)
 
 
 #### 🔭 Other projects I've contributed to
