@@ -2,7 +2,7 @@
 
 #### 🪛 things I'm currently tinkering with
 * Operating Systems: [illumos](https://illumos.org/docs/)
-* Network Programming - Multi-Hop Mesh Networks:
+* Network Programming - Multi-Hop Networks:
   * [`wg-dynamic`](https://gitlab.com/rigzba21/roadguard)
   * [FRRouting Project](https://frrouting.org)
   * [babeld (Babel routing daemon)](https://github.com/jech/babeld)
